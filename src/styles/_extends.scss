@@ -1,0 +1,34 @@
+@import "./_variables.scss";
+
+%text {
+  line-height: 1.75em;
+  letter-spacing: 0.025em;
+}
+
+%border-box {
+  box-sizing: border-box;
+}
+
+%margin-zero {
+  margin: 0;
+}
+
+%h-font-weight {
+  font-weight: 900;
+}
+
+%h1 {
+  font-size: 4.25em;
+  line-height: 1em;
+  letter-spacing: -0.05em;
+}
+
+%h2 {
+  font-size: 2.25em;
+  line-height: 1.25em;
+  letter-spacing: -0.05em;
+}
+
+%color {
+  color: $dark-blue;
+}
