@@ -50,6 +50,7 @@ export default defineComponent({
   line-height: 2em;
   text-align: center;
   color: $light-blue-opaque;
+  text-decoration: none;
 
   &:hover {
     color: $grey;
